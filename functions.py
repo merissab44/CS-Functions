@@ -8,15 +8,19 @@ result = area(10,8)
 print(result)
 
 def subtract(num1,num2):
-    difference = num1 - num2
-    return difference
-difference = subtract(10,2)
-difference = subtract(6,2)
-print(difference)
+    result = num1 - num2
+    return result
+result = subtract(10,2)
+result = subtract(6,2)
+print(result)
+
+def divide(num1, num2):
+    result = num1 / num2
+    return result
 
 def add(num1, num2):
-    sum = num1 + num2
-    return sum
-sum = add(10,8)
-sum = add(200,100)
-print(sum)
+    result = num1 + num2
+    return result
+result = add(10,8)
+result = add(200,100)
+print(result)
