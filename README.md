@@ -10,3 +10,4 @@ To start, we need two inputs from the user. From there, given 1. the total cost 
 This program was coded in python 3.79.
 
 This program is self explanatory but in case where users input an invalid answer, it will prompt you to give a valid answer and notify what made it invalid.
+# CS-Functions
