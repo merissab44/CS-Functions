@@ -10,9 +10,10 @@ print(result)
 def subtract(num1,num2):
     result = num1 - num2
     return result
-result = subtract(10,2)
-result = subtract(6,2)
-print(result)
+result1 = subtract(10,2)
+print(result1)
+result2 = subtract(6,2)
+print(result2)
 
 def divide(num1, num2):
     result = num1 / num2
@@ -21,6 +22,7 @@ def divide(num1, num2):
 def add(num1, num2):
     result = num1 + num2
     return result
-result = add(10,8)
-result = add(200,100)
-print(result)
+result1 = add(10,8)
+print(result1)
+result2 = add(200,100)
+print(result2)
